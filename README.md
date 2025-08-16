@@ -23,3 +23,13 @@ Learning and experimenting with Python, ML, and AI projects
 Building out projects that connect my business mindset with technical creativity
 
 Open to collaborations, mentorship, and conversations about AI, software, and tech innovation
+
+# Conclusion
+By completing this tutorial, you've learned to create a project and make a pull request on GitHub.
+
+As part of that, we've learned how to:
+
+Create a repository.
+Start and manage a new branch.
+Change a file and commit those changes to GitHub.
+Open and merge a pull request.
